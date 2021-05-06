@@ -12,8 +12,8 @@
     <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
     </properties>
 
-  <distributionManagement>
-   <repository>
+<distributionManagement>
+  <repository>
 <id>releases</id>
 <url>http://34.224.174.39:8081/repository/maven-releases/</url>
 </repository>
